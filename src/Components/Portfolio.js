@@ -8,7 +8,7 @@ class Portfolio extends Component {
         if (!this.props.data) return null;
 
         const projects = this.props.data.projects.map(function (projects) {
-            let projectImage = projects.img;
+            let projectImage = "./images/portfolio/" + projects.img;
 
             return (
                 <div key={id++} className="columns portfolio-item">
@@ -22,7 +22,7 @@ class Portfolio extends Component {
 
         return (
             <section id="portfolio">
-                <Fade left duration={1000} distance="40px">
+                <Fade left duration={1000} distance="15px">
                     <div className="row">
                         <div className="twelve columns collapsed">
                             <h1>Check out some of my works</h1>

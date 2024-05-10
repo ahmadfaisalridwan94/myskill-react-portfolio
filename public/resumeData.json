@@ -135,39 +135,39 @@
         "portfolio":{
             "projects":[
                 {
-                    "title": "BRIMOLA - PT Bank Rakyat Indonesia",
+                    "title": "BRIMOLA - BRI",
                     "description": "Aplikasi transaksi jual beli Gas LPG antara Agen dan Pangkalan",
-                    "img": "https://github.com/ahmadfaisalridwan94/myskill-react-portfolio/blob/master/public/images/portfolio/01.jpg?raw=true"
+                    "img": "/portfolio-01.jpg"
                 },
                 {
-                    "title": "BRISTORE - PT Bank Rakyat Indonesia",
+                    "title": "BRISTORE - BRI",
                     "description": "Aplikasi transaksi retail dengan metode pembayaran yang mudah dan cepat",
-                    "img": "https://github.com/ahmadfaisalridwan94/myskill-react-portfolio/blob/master/public/images/portfolio/02.jpg?raw=true"
+                    "img": "/portfolio-02.jpg"
                 },
                 {
                     "title": "Landing Page Terimacashin",
                     "description": "Aplikasi Web ecommerce Terima Cash In",
-                    "img": "https://github.com/ahmadfaisalridwan94/myskill-react-portfolio/blob/master/public/images/portfolio/03.jpg?raw=true"
+                    "img": "/portfolio-03.jpg"
                 },
                 {
                     "title": "CMS Terimacashin",
                     "description": "Aplikasi manajemen konten untuk landing page Terimacashin",
-                    "img": "https://github.com/ahmadfaisalridwan94/myskill-react-portfolio/blob/master/public/images/portfolio/04.jpg?raw=true"
+                    "img": "/portfolio-04.jpg"
                 },
                 {
                     "title": "HRIS - PT Manna Solusindo",
                     "description": "Aplikasi manajemen rekrutmen, absensi, dan pembayaran karyawan",
-                    "img": "https://github.com/ahmadfaisalridwan94/myskill-react-portfolio/blob/master/public/images/portfolio/05.jpg?raw=true"
+                    "img": "/portfolio-05.jpg"
                 },
                 {
-                    "title": "Aplikasi Jual Beli Barang - CV. Mitra Jaya Electronics",
+                    "title": "Retail App - CV. MJE",
                     "description": "Aplikasi untuk membantu pencatatan dan pelaporan jual beri barang di CV. Mitra Jaya Electronics",
-                    "img": "https://github.com/ahmadfaisalridwan94/myskill-react-portfolio/blob/master/public/images/portfolio/06.jpg?raw=true"
+                    "img": "/portfolio-06.jpg"
                 },
                 {
-                    "title": "Aplikasi Jual Beli Barang - Citra Baja",
+                    "title": "Retail App - Citra Baja",
                     "description": "Aplikasi untuk membantu pencatatan dan pelaporan jual beri barang di toko Citra Baja. Mendukung multi user dan multi cabang",
-                    "img": "https://github.com/ahmadfaisalridwan94/myskill-react-portfolio/blob/master/public/images/portfolio/07.jpg?raw=true"
+                    "img": "/portfolio-07.jpg"
                 }
             ]
         }
