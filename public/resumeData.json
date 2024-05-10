@@ -65,19 +65,19 @@
                     "description": "Developing Web application and API for mobile applications for supporting supply chain business process, integrate application with whatsapp's service for notification, managing project documentation, Fixing bugs and pentest findings"
                 },
                 {
-                    "company": "Freelance",
+                    "company": "Freelance - Landing Page",
                     "title": "PHP Developer",
                     "years": "2023 - 2023",
                     "description": "Developed Landing page with CMS and registration feature for website Terima Cash In (https://terimacashin.com/)."
                 },
                 {
-                    "company": "Freelance",
+                    "company": "Freelance - Retail Apps",
                     "title": "PHP Developer",
                     "years": "2022 - 2023",
                     "description": "Developed an Inventory Management System applications for Citra Baja store and Mitra Jaya Electronics store"
                 },
                 {
-                    "company": "Freelance",
+                    "company": "Freelance - HRMS",
                     "title": "PHP Developer",
                     "years": "2021 - 2022",
                     "description": "Developed a web-based Human Resource Management System (HRMS) application with a team for PT Kasen Indonesia and PT Roki Indonesia. In this HRMS project, Worked on the Attendance and Payroll modules."
@@ -135,19 +135,39 @@
         "portfolio":{
             "projects":[
                 {
-                    "title": "Project 1",
-                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at.",
-                    "img": "https://raw.githubusercontent.com/ahmadfaisalridwan94/myskill-react-portfolio/master/public/portfolio.png"
+                    "title": "BRIMOLA - PT Bank Rakyat Indonesia",
+                    "description": "Aplikasi transaksi jual beli Gas LPG antara Agen dan Pangkalan",
+                    "img": "https://github.com/ahmadfaisalridwan94/myskill-react-portfolio/blob/master/public/images/portfolio/01.jpg?raw=true"
                 },
                 {
-                    "title": "Project 2",
-                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at.",
-                    "img": "https://raw.githubusercontent.com/ahmadfaisalridwan94/myskill-react-portfolio/master/public/portfolio.png"
+                    "title": "BRISTORE - PT Bank Rakyat Indonesia",
+                    "description": "Aplikasi transaksi retail dengan metode pembayaran yang mudah dan cepat",
+                    "img": "https://github.com/ahmadfaisalridwan94/myskill-react-portfolio/blob/master/public/images/portfolio/02.jpg?raw=true"
                 },
                 {
-                    "title": "Project 3",
-                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at.",
-                    "img": "https://raw.githubusercontent.com/ahmadfaisalridwan94/myskill-react-portfolio/master/public/portfolio.png"
+                    "title": "Landing Page Terimacashin",
+                    "description": "Aplikasi Web ecommerce Terima Cash In",
+                    "img": "https://github.com/ahmadfaisalridwan94/myskill-react-portfolio/blob/master/public/images/portfolio/03.jpg?raw=true"
+                },
+                {
+                    "title": "CMS Terimacashin",
+                    "description": "Aplikasi manajemen konten untuk landing page Terimacashin",
+                    "img": "https://github.com/ahmadfaisalridwan94/myskill-react-portfolio/blob/master/public/images/portfolio/04.jpg?raw=true"
+                },
+                {
+                    "title": "HRIS - PT Manna Solusindo",
+                    "description": "Aplikasi manajemen rekrutmen, absensi, dan pembayaran karyawan",
+                    "img": "https://github.com/ahmadfaisalridwan94/myskill-react-portfolio/blob/master/public/images/portfolio/05.jpg?raw=true"
+                },
+                {
+                    "title": "Aplikasi Jual Beli Barang - CV. Mitra Jaya Electronics",
+                    "description": "Aplikasi untuk membantu pencatatan dan pelaporan jual beri barang di CV. Mitra Jaya Electronics",
+                    "img": "https://github.com/ahmadfaisalridwan94/myskill-react-portfolio/blob/master/public/images/portfolio/06.jpg?raw=true"
+                },
+                {
+                    "title": "Aplikasi Jual Beli Barang - Citra Baja",
+                    "description": "Aplikasi untuk membantu pencatatan dan pelaporan jual beri barang di toko Citra Baja. Mendukung multi user dan multi cabang",
+                    "img": "https://github.com/ahmadfaisalridwan94/myskill-react-portfolio/blob/master/public/images/portfolio/07.jpg?raw=true"
                 }
             ]
         }
