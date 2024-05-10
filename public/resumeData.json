@@ -92,13 +92,13 @@
                     "company": "PT Lyrid Prima Indonesia",
                     "title": "Web Developer",
                     "years": "2019 - 2020",
-                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at."
+                    "description": "Developed and maintained web-based applications. Such as Smart Estate Management Systems, Inventory Management Systems, and Donation Management System."
                 },
                 {
                     "company": "PT Manna Solusindo",
                     "title": "Web Developer",
                     "years": "2018 - 2019",
-                    "description": "Developing Web application and API for mobile applications for supporting supply chain business process, integrate application with whatsapp's service for notification, managing project documentation, Fixing bugs and pentest findings"
+                    "description": "Developed and maintained Human Resource Management Systems (Web and Desktop) using Delphi programming language."
                 }
             ],
             "skills":[
@@ -129,6 +129,14 @@
                 {
                     "name": "Codeigniter 3",
                     "level": "70%"
+                },
+                {
+                    "name": "Python",
+                    "level": "60%"
+                },
+                {
+                    "name": "React JS",
+                    "level": "50%"
                 }
             ]
         },
